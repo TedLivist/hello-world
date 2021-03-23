@@ -8,9 +8,9 @@
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/TedLivist)
-- Twitter: [@twitterhandle](https://twitter.com/iamxted)
-- LinkedIn: [LinkedIn](https://linkedin.com/tememandu)
+- [GitHub](https://github.com/TedLivist)
+- [Twitter](https://twitter.com/iamxted)
+- [LinkedIn](https://linkedin.com/tememandu)
 
 ## 🤝 Contributing
 
