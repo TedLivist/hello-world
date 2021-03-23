@@ -10,7 +10,7 @@
 
 - [GitHub](https://github.com/TedLivist)
 - [Twitter](https://twitter.com/iamxted)
-- [LinkedIn](https://linkedin.com/tememandu)
+- [LinkedIn](https://linkedin.com/in/tememandu)
 
 ## 🤝 Contributing
 
